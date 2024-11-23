@@ -1,1 +1,1 @@
-# Stock-Opinion-Sentiment-Model
+# Stock Opinion Sentiment Model
