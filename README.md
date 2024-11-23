@@ -56,9 +56,6 @@ The tool operates by following a streamlined process:
 ## Running the Tool
 After installation, the script can be run directly in a Python environment that supports Spark. Here’s how to use the tool:
 
-## Running the Tool
-After installation, the script can be run directly in a Python environment that supports Spark. Here’s how to use the tool:
-
 ### Execution
 1. Start the Python script provided in the repository.
 2. The script will automatically ask you to input a stock ticker from the following list:
